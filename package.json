@@ -1,6 +1,6 @@
 {
   "name": "ishelar",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get to know about \"Saurabh Shelar\" via npm. Run \"npx ishelar\"",
   "bin": {
     "ishelar": "index.js"
