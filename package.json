@@ -1,0 +1,26 @@
+{
+  "name": "ishelar",
+  "version": "1.0.0",
+  "description": "Get to know about \"Saurabh Shelar\" via npm. Run \"npx ishelar\"",
+  "bin": {
+    "ishelar": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iShelar/saurabh.git"
+  },
+  "author": "Saurabh Shelar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iShelar/saurabh/issues"
+  },
+  "homepage": "https://github.com/iShelar/saurabh#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "type": "module"
+}
