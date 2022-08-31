@@ -1,6 +1,8 @@
 #! /usr/bin/env node
 import chalk from "chalk";
+import clearConsole from "clear-any-console";
 
+clearConsole();
 let log = console.log;
 // Space
 log();
